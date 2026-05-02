@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background: #111;
+    color: white;
+    font-family: Arial;
+}
+
+canvas {
+    display: block;
+    background: linear-gradient(#333, #000);
+}
+
+#ui {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
